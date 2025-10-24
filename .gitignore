@@ -1,0 +1,18 @@
+# Ignore compiled Java classes
+*.class
+
+# Build folders
+bin/
+out/
+target/
+
+# IDE/editor metadata
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Git
+.git/
